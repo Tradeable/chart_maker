@@ -40743,7 +40743,7 @@ if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.rK.prototype={
 H(a){var s=null,r=A.b([],t.a),q=A.cn(16),p=A.bd(a,s,t.w).w
-return A.mS(s,B.j,A.bz(s,A.bb(A.b([B.C2,new A.y9(new A.ZI(r),s),new A.e3(B.CI,s,s,A.cT(B.Zu,new A.ZJ(this,a,r),s),s)],t.p),B.a0,B.m,B.E),B.n,s,s,s,s,s,s,B.kD,s,s,p.a.a-20),s,s,s,s,new A.bU(q,B.p),s)}}
+return A.mS(s,B.j,A.bz(s,A.bb(A.b([B.C2,new A.y9(new A.ZI(r),s),new A.e3(B.CI,s,s,A.cT(B.Zt,new A.ZJ(this,a,r),s),s)],t.p),B.a0,B.m,B.E),B.n,s,s,s,s,s,s,B.kD,s,s,p.a.a-20),s,s,s,s,new A.bU(q,B.p),s)}}
 A.ZI.prototype={
 $1(a){var s=this.a
 B.b.a1(s)
@@ -40782,7 +40782,7 @@ return null},
 $S:0}
 A.aAL.prototype={
 $1(a){var s=null,r=new A.b_(s,t.ig),q=A.cn(16),p=this.a,o=t.w,n=this.b,m=t.p
-return A.mS(s,s,new A.dH(new A.a2(0,A.bd(p,s,o).w.a.a*0.9,0,A.bd(p,s,o).w.a.b*0.8),A.bb(A.b([new A.aX(B.bX,A.ax("Select Row in "+n.y,s,s,s,B.j9,s,s,s),s),A.ck(new A.aX(B.bX,new A.nw(new A.uv(n.e,n.d,n.f,B.di,B.di,s,s,n.Q,!0),s,r),s),1),new A.aX(B.c8,A.bw(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.aAG(a),s,s),B.ci,A.cT(B.Zv,new A.aAH(r,a),s)],m),B.r,B.cu,B.E,s),s)],m),B.r,B.m,B.L),s),s,s,s,s,new A.bU(q,B.p),s)},
+return A.mS(s,s,new A.dH(new A.a2(0,A.bd(p,s,o).w.a.a*0.9,0,A.bd(p,s,o).w.a.b*0.8),A.bb(A.b([new A.aX(B.bX,A.ax("Select Row in "+n.y,s,s,s,B.j9,s,s,s),s),A.ck(new A.aX(B.bX,new A.nw(new A.uv(n.e,n.d,n.f,B.di,B.di,s,s,n.Q,!0),s,r),s),1),new A.aX(B.c8,A.bw(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.aAG(a),s,s),B.ci,A.cT(B.Zu,new A.aAH(r,a),s)],m),B.r,B.cu,B.E,s),s)],m),B.r,B.m,B.L),s),s,s,s,s,new A.bU(q,B.p),s)},
 $S:84}
 A.aAG.prototype={
 $0(){A.az(this.a,!1).e3(null)
@@ -40911,7 +40911,7 @@ q=q.b
 if(r<q.length){s.w=q[r]
 s.XZ()}},
 H(a){var s,r=this,q=null,p=A.C(a).ax,o=p.y2
-p=A.aBu(q,o==null?p.c:o,B.Z8)
+p=A.aBu(q,o==null?p.c:o,B.Z7)
 o=A.bd(a,q,t.w).w
 o=A.ck(A.aGt(A.bz(q,A.ax(r.x,q,q,q,q,q,q,q),B.n,q,q,B.Dj,q,q,q,B.kD,q,q,o.a.a-20),B.nh),2)
 if(r.as)s=new A.i8(1,B.cT,new A.e3(B.n5,q,q,A.cT(A.ax(r.y?"View Chart":"View Option Chain",q,q,q,q,q,q,q),new A.ami(r),q),q),q)
@@ -40995,7 +40995,7 @@ s=o.y2
 o=s==null?o.c:s
 s=q.as
 if(s!=null)s=new A.rT("Waiting for "+A.q(s.b),B.Xd,p)
-else s=q.at?B.CV:B.Z5
+else s=q.at?B.CV:B.Zy
 r=A.b([],t.p)
 if(q.CW!=null)r.push(A.e6(p,p,B.pO,p,p,q.ga7N(),p,p,"Delete Event"))
 r.push(A.D0(p,p,p,!1,B.G,p,p,p,p,p,p,new A.aol(q),p,p,p,p,p,p,p,p,q.at))
@@ -41603,7 +41603,7 @@ $S:0}
 A.apE.prototype={
 $1(a){var s=null,r=this.a,q=this.b,p=A.N(q).i("K<1,mu>"),o=t.p
 p=A.bb(A.b([A.fB(!0,B.aP,!1,s,!0,B.F,s,A.hm(),r,s,s,s,s,s,2,B.Kq,B.G,!0,s,!0,s,!1,s,B.aT,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,new A.apA(a),s,!1,s,s,!1,s,!0,s,B.aV,s,s,B.aN,B.aJ,s,s,s,s,s,s,s,!0,B.P,s,B.bs,s,B.ml,s,s),B.B,B.a_n,B.S,A.DQ(A.O(new A.K(q,new A.apB(r),p),!0,p.i("a7.E")),0,8)],o),B.a0,B.m,B.L)
-return A.ds(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.apC(a),s,s),A.bO(!1,B.Zr,s,s,s,s,s,s,new A.apD(r,a),s,s)],o),p,B.a_y)},
+return A.ds(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.apC(a),s,s),A.bO(!1,B.Zq,s,s,s,s,s,s,new A.apD(r,a),s,s)],o),p,B.a_y)},
 $S:176}
 A.apA.prototype={
 $1(a){if(a.length!==0)A.az(this.a,!1).e3(A.aiL(a))},
@@ -41908,7 +41908,7 @@ case 5:t.Pd.a(a)
 return A.bw(A.b([A.ax(a.d,r,r,r,r,r,r,r),B.ch,A.dg(!1,r,!0,B.ff,r,!0,r,r,r,r,r,r,r,r,r,r,r,new A.axE(s,a),r,r,r,r,r,r,r)],t.p),B.r,B.m,B.L,r)
 case 4:t.uf.a(a)
 return A.bw(A.b([A.ax(a.e.b,r,r,r,r,r,r,r),B.ch,A.dg(!1,r,!0,B.ff,r,!0,r,r,r,r,r,r,r,r,r,r,r,new A.axF(s,a),r,r,r,r,r,r,r)],t.p),B.r,B.m,B.L,r)
-case 6:return B.Zt
+case 6:return B.Zs
 case 7:t.YV.a(a)
 return A.bw(A.b([A.ax(a.y,r,r,r,r,r,r,r),B.ch,A.dg(!1,r,!0,B.ff,r,!0,r,r,r,r,r,r,r,r,r,r,r,new A.axG(s,a),r,r,r,r,r,r,r)],t.p),B.r,B.m,B.L,r)
 case 8:t.rE.a(a)
@@ -41916,7 +41916,7 @@ return A.bw(A.b([A.ax(a.d,r,r,r,r,r,r,r),B.ch,A.dg(!1,r,!0,B.ff,r,!0,r,r,r,r,r,r
 case 9:return A.ax(t.Mr.a(a).d,r,r,r,r,r,r,r)}}}
 A.axz.prototype={
 $1(a){var s=null,r=A.cM(new A.OT(s,new A.axx(this.a,a,this.b),s),s,300)
-return A.ds(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.axy(a),s,s)],t.p),r,B.Zs)},
+return A.ds(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.axy(a),s,s)],t.p),r,B.Zr)},
 $S:176}
 A.axx.prototype={
 $1(a){A.az(this.b,!1).be()
@@ -41998,7 +41998,7 @@ m=A.bz(p,A.jh(B.n5,A.b([A.fB(!0,B.aP,!1,p,!0,B.F,p,A.hm(),q.d,p,p,p,p,p,2,B.Ki,B
 n=A.C(a).x1.at
 if(n==null)n=p
 else{s=n.d
-n=s==null?n.b:s}n=A.aCv(B.Zl,n,2,new A.aqP(q,a),B.kF,new A.bU(A.cn(20),B.p))
+n=s==null?n.b:s}n=A.aCv(B.Zk,n,2,new A.aqP(q,a),B.kF,new A.bU(A.cn(20),B.p))
 s=A.C(a).x1.at
 if(s==null)s=p
 else{r=s.d
@@ -42126,7 +42126,7 @@ s=A.abm(B.a_k,q.CW!=null||q.x!=null?q.gahT():p)
 r=A.abm(A.ax("Trendline: "+q.z.gm7(),p,p,p,p,p,p,p),q.gajT())
 return new A.LE(q.cx,q.gabl(),A.JD(new A.aX(B.c8,A.bb(A.b([n,B.S,m,B.B,l,B.S,k,B.B,A.dq(A.bw(A.b([j,B.ci,s,B.ci,r,B.ci,A.abm(A.ax("Volume: "+(q.at?"ON":"OFF"),p,p,p,p,p,p,p),new A.amb(q)),A.cT(B.a_F,q.ga9g(),p)],o),B.r,B.cu,B.E,p),p,!1,B.b_)],o),B.cr,B.m,B.E),p),p,B.pd,p),p)},
 a66(){var s=null,r=A.ho(B.aj,1),q=A.cn(4),p=this.Q,o=t.ZN
-return A.bz(s,new A.kY(A.mT(B.Zk,!0,A.O(new A.K(B.LL,new A.alM(),o),!0,o.i("a7.E")),s,new A.alN(this),s,s,p,t.kQ),s),B.n,s,s,new A.bD(s,s,r,q,s,s,B.W),s,s,s,B.bl,s,s,s)},
+return A.bz(s,new A.kY(A.mT(B.Zj,!0,A.O(new A.K(B.LL,new A.alM(),o),!0,o.i("a7.E")),s,new A.alN(this),s,s,p,t.kQ),s),B.n,s,s,new A.bD(s,s,r,q,s,s,B.W),s,s,s,B.bl,s,s,s)},
 yH(){var s=0,r=A.S(t.H),q=this,p,o,n
 var $async$yH=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:n=q.c
@@ -46199,7 +46199,7 @@ r=A.ck(A.dq(new A.aX(B.pc,A.bb(A.b([p.a5G(),B.m9,p.a65()],s),B.a0,B.m,B.E),o),o,
 q=p.c
 q.toString
 q=A.C(q)
-return A.bz(o,A.bb(A.b([r,A.bz(o,A.bw(A.b([A.bO(!1,B.ak,o,o,o,o,o,o,new A.atg(p),o,o),B.ci,A.cT(B.Zd,new A.ath(p),o)],s),B.r,B.cu,B.E,o),B.n,o,o,new A.bD(q.at,o,o,B.CY,o,o,B.W),o,o,o,B.bX,o,o,o)],s),B.r,B.m,B.L),B.n,o,new A.a2(0,1/0,0,n.a.b*0.8),o,o,o,o,o,o,o,800)},
+return A.bz(o,A.bb(A.b([r,A.bz(o,A.bw(A.b([A.bO(!1,B.ak,o,o,o,o,o,o,new A.atg(p),o,o),B.ci,A.cT(B.Zc,new A.ath(p),o)],s),B.r,B.cu,B.E,o),B.n,o,o,new A.bD(q.at,o,o,B.CY,o,o,B.W),o,o,o,B.bX,o,o,o)],s),B.r,B.m,B.L),B.n,o,new A.a2(0,1/0,0,n.a.b*0.8),o,o,o,o,o,o,o,800)},
 a5G(){var s=this,r=null,q=t.p
 return A.JD(new A.aX(B.bX,A.bb(A.b([B.ZR,B.B,s.Nb(),B.S,A.bw(A.b([s.a61(),B.mb,s.a6c()],q),B.r,B.m,B.E,r),B.S,s.Nb(),B.S,s.a63(),B.S,s.a5N(),B.S,A.bw(A.b([s.a5W(),B.mb,s.a5C()],q),B.r,B.m,B.E,r),s.a5R(),B.B,s.a5F(),B.B,s.a64()],q),B.a0,B.m,B.E),r),r,r,r)},
 Nb(){var s=null,r=A.aPD("dd MMM yyyy"),q=this.d
@@ -46226,7 +46226,7 @@ a5R(){var s=null,r=this.ch
 r===$&&A.a()
 r=r.c
 return A.hS(!1,this.CW,B.K1,r===!0,s,s,B.bP,new A.atn(this),s,s,s)},
-a5F(){var s=null,r=A.b([B.Z9],t.p),q=this.gfj()
+a5F(){var s=null,r=A.b([B.Z8],t.p),q=this.gfj()
 B.b.O(r,new A.K(q,new A.ata(this),A.N(q).i("K<1,f>")))
 r.push(A.e6(s,s,B.pP,s,s,this.gaiP(),s,s,s))
 return A.DQ(r,0,8)},
@@ -46247,11 +46247,11 @@ return A.bw(A.b([B.a_p,A.mT(r,!1,A.O(new A.K(B.l3,new A.atr(),q),!0,q.i("a7.E"))
 a5W(){var s=null,r=this.ch
 r===$&&A.a()
 r=r.c
-return A.bw(A.b([B.Zg,A.D0(s,s,s,!1,B.G,s,s,s,s,s,s,new A.atp(this),s,s,s,s,s,s,s,s,r===!0)],t.p),B.r,B.m,B.E,s)},
+return A.bw(A.b([B.Zf,A.D0(s,s,s,!1,B.G,s,s,s,s,s,s,new A.atp(this),s,s,s,s,s,s,s,s,r===!0)],t.p),B.r,B.m,B.E,s)},
 a5C(){var s=null,r=this.ch
 r===$&&A.a()
 r=r.d
-return A.bw(A.b([B.Zn,A.D0(s,s,s,!1,B.G,s,s,s,s,s,s,new A.at4(this),s,s,s,s,s,s,s,s,r===!0)],t.p),B.r,B.m,B.E,s)}}
+return A.bw(A.b([B.Zm,A.D0(s,s,s,!1,B.G,s,s,s,s,s,s,new A.at4(this),s,s,s,s,s,s,s,s,r===!0)],t.p),B.r,B.m,B.E,s)}}
 A.atT.prototype={
 $1(a){return a.a},
 $S:664}
@@ -46794,7 +46794,7 @@ r.a=null
 return A.ds(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.ZE(a),s,s),A.bO(!1,B.C1,s,s,s,s,s,s,new A.ZF(r,this,a),s,s)],t.p),new A.kh(new A.ZG(r,this),s),B.a_P)}}
 A.ZG.prototype={
 $2(a,b){var s=this.a,r=s.a,q=this.b.c,p=A.N(q).i("K<1,bM<bL>>")
-return A.mT(B.Za,!1,A.O(new A.K(q,new A.ZC(),p),!0,p.i("a7.E")),null,new A.ZD(s,b),null,null,r,t.hy)},
+return A.mT(B.Z9,!1,A.O(new A.K(q,new A.ZC(),p),!0,p.i("a7.E")),null,new A.ZD(s,b),null,null,r,t.hy)},
 $S:252}
 A.ZD.prototype={
 $1(a){this.b.$1(new A.ZB(this.a,a))},
@@ -46817,7 +46817,7 @@ A.az(this.c,!1).e3(null)}},
 $S:0}
 A.tw.prototype={
 H(a){var s=null,r=new A.cr(new A.bx(this.c,B.aA,B.ac),$.a9()),q=A.fB(!0,B.aP,!1,s,!0,B.F,s,A.hm(),r,s,s,s,s,s,2,B.K4,B.G,!0,s,!0,s,!1,s,B.aT,s,s,s,B.bP,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aV,s,s,B.aN,B.aJ,s,s,s,s,s,s,s,!0,B.P,s,B.bs,s,s,s,s)
-return A.ds(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.a2X(a),s,s),A.bO(!1,B.C0,s,s,s,s,s,s,new A.a2Y(this,r,a),s,s)],t.p),q,B.Zh)}}
+return A.ds(A.b([A.bO(!1,B.ak,s,s,s,s,s,s,new A.a2X(a),s,s),A.bO(!1,B.C0,s,s,s,s,s,s,new A.a2Y(this,r,a),s,s)],t.p),q,B.Zg)}}
 A.a2X.prototype={
 $0(){A.az(this.a,!1).e3(null)
 return null},
@@ -47058,7 +47058,7 @@ s===$&&A.a()
 r=p.w
 r===$&&A.a()
 q=t.p
-r=A.b([B.ey,n,B.B,B.ZH,B.S,new A.co(s,new A.ajq(p),o),B.B,A.bw(A.b([B.Zx,A.D0(o,o,o,!1,B.G,o,o,o,o,o,o,new A.ajr(p),o,o,o,o,o,o,o,o,r)],q),B.r,B.dt,B.E,o)],q)
+r=A.b([B.ey,n,B.B,B.ZH,B.S,new A.co(s,new A.ajq(p),o),B.B,A.bw(A.b([B.Zw,A.D0(o,o,o,!1,B.G,o,o,o,o,o,o,new A.ajr(p),o,o,o,o,o,o,o,o,r)],q),B.r,B.dt,B.E,o)],q)
 if(p.w){n=p.f
 n===$&&A.a()
 B.b.O(r,A.b([B.S,new A.co(n,new A.ajs(p),o)],q))}r.push(B.B)
@@ -47208,8 +47208,8 @@ p===$&&A.a()
 o=m.x
 o===$&&A.a()
 n=t.p
-o=A.dq(A.bb(A.b([B.ey,k,B.B,B.Zm,s,B.B,B.a_0,B.S,new A.co(r,new A.akR(m),l),B.B,B.Zz,B.S,new A.co(q,new A.akS(m),l),B.B,B.ZN,B.S,new A.co(p,new A.akT(m),l),B.B,B.Zi,A.cN(51,B.f.j(o),255,0,new A.akU(m),o)],n),B.a0,B.m,B.L),l,!1,B.V)
-return A.ds(A.b([A.bO(!1,B.ak,l,l,l,l,l,l,new A.akV(a),l,l),A.cT(B.b5,new A.akW(m,a),l)],n),o,B.Zb)}}
+o=A.dq(A.bb(A.b([B.ey,k,B.B,B.Zl,s,B.B,B.a_0,B.S,new A.co(r,new A.akR(m),l),B.B,B.Zz,B.S,new A.co(q,new A.akS(m),l),B.B,B.ZN,B.S,new A.co(p,new A.akT(m),l),B.B,B.Zh,A.cN(51,B.f.j(o),255,0,new A.akU(m),o)],n),B.a0,B.m,B.L),l,!1,B.V)
+return A.ds(A.b([A.bO(!1,B.ak,l,l,l,l,l,l,new A.akV(a),l,l),A.cT(B.b5,new A.akW(m,a),l)],n),o,B.Za)}}
 A.akP.prototype={
 $1(a){var s=this.a
 s.C(new A.akO(s,a))},
@@ -47353,7 +47353,7 @@ o===$&&A.a()
 n=l.y
 n===$&&A.a()
 m=t.p
-n=A.dq(A.bb(A.b([B.a_L,j,B.B,B.ZV,s,B.B,B.a_3,r,B.B,B.ZY,B.S,new A.co(q,new A.as6(l),k),B.B,B.a_a,B.S,new A.co(p,new A.as7(l),k),B.B,B.Ze,B.S,new A.co(o,new A.as8(l),k),B.B,B.a_v,B.S,new A.co(n,new A.as9(l),k)],m),B.a0,B.m,B.L),k,!1,B.V)
+n=A.dq(A.bb(A.b([B.a_L,j,B.B,B.ZV,s,B.B,B.a_3,r,B.B,B.ZY,B.S,new A.co(q,new A.as6(l),k),B.B,B.a_a,B.S,new A.co(p,new A.as7(l),k),B.B,B.Zd,B.S,new A.co(o,new A.as8(l),k),B.B,B.a_v,B.S,new A.co(n,new A.as9(l),k)],m),B.a0,B.m,B.L),k,!1,B.V)
 return A.ds(A.b([A.bO(!1,B.ak,k,k,k,k,k,k,new A.asa(a),k,k),A.cT(B.b5,new A.asb(l,a),k)],m),n,B.a_6)}}
 A.as3.prototype={
 $1(a){var s=this.a
@@ -47465,7 +47465,7 @@ p===$&&A.a()
 o=m.r
 o===$&&A.a()
 n=t.p
-o=A.dq(A.bb(A.b([B.ey,k,B.B,B.ZD,s,B.B,B.Zw,r,B.B,B.ex,B.S,new A.co(q,new A.asJ(m),l),B.B,B.a_7,B.S,new A.co(p,new A.asK(m),l),B.B,B.a_2,B.S,new A.co(o,new A.asL(m),l)],n),B.a0,B.m,B.L),l,!1,B.V)
+o=A.dq(A.bb(A.b([B.ey,k,B.B,B.ZD,s,B.B,B.Zv,r,B.B,B.ex,B.S,new A.co(q,new A.asJ(m),l),B.B,B.a_7,B.S,new A.co(p,new A.asK(m),l),B.B,B.a_2,B.S,new A.co(o,new A.asL(m),l)],n),B.a0,B.m,B.L),l,!1,B.V)
 return A.ds(A.b([A.bO(!1,B.ak,l,l,l,l,l,l,new A.asM(a),l,l),A.cT(B.b5,new A.asN(m,a),l)],n),o,B.a_w)}}
 A.asG.prototype={
 $1(a){var s=this.a
@@ -47566,7 +47566,7 @@ r===$&&A.a()
 q=o.r
 q===$&&A.a()
 p=t.p
-q=A.dq(A.bb(A.b([B.Zo,m,B.B,B.a_r,s,B.B,B.ZU,B.S,new A.co(r,new A.aw8(o),n),B.B,B.a_t,B.S,new A.co(q,new A.aw9(o),n)],p),B.a0,B.m,B.L),n,!1,B.V)
+q=A.dq(A.bb(A.b([B.Zn,m,B.B,B.a_r,s,B.B,B.ZU,B.S,new A.co(r,new A.aw8(o),n),B.B,B.a_t,B.S,new A.co(q,new A.aw9(o),n)],p),B.a0,B.m,B.L),n,!1,B.V)
 return A.ds(A.b([A.bO(!1,B.ak,n,n,n,n,n,n,new A.awa(a),n,n),A.cT(B.b5,new A.awb(o,a),n)],p),q,B.a_A)}}
 A.aw6.prototype={
 $1(a){var s=this.a
@@ -47681,7 +47681,7 @@ r===$&&A.a()
 q=o.r
 q===$&&A.a()
 p=t.p
-q=A.dq(A.bb(A.b([B.a_h,m,B.B,B.Zp,s,B.B,B.Z6,B.S,new A.co(r,new A.ax0(o),n),B.B,B.a_d,B.S,new A.co(q,new A.ax1(o),n)],p),B.a0,B.m,B.L),n,!1,B.V)
+q=A.dq(A.bb(A.b([B.a_h,m,B.B,B.Zo,s,B.B,B.Z5,B.S,new A.co(r,new A.ax0(o),n),B.B,B.a_d,B.S,new A.co(q,new A.ax1(o),n)],p),B.a0,B.m,B.L),n,!1,B.V)
 return A.ds(A.b([A.bO(!1,B.ak,n,n,n,n,n,n,new A.ax2(a),n,n),A.cT(B.b5,new A.ax3(o,a),n)],p),q,B.ZM)}}
 A.awZ.prototype={
 $1(a){var s=this.a
@@ -47825,7 +47825,7 @@ r=A.mT(n,!1,A.O(new A.K(B.qh,new A.ake(),q),!0,q.i("a7.E")),n,new A.akf(o),n,n,r
 q=o.r
 q===$&&A.a()
 p=t.p
-q=A.dq(A.bb(A.b([B.C3,B.S,new A.co(m,new A.akg(o),n),B.B,B.Zq,s,B.B,B.a_K,r,B.B,B.Z7,A.fB(!0,B.aP,!1,n,!0,B.F,n,A.hm(),q,n,n,n,n,n,2,B.Kg,B.G,!0,n,!0,n,!1,n,B.aT,n,n,n,n,n,n,n,3,n,n,!1,"\u2022",n,n,n,n,n,!1,n,n,!1,n,!0,n,B.aV,n,n,B.aN,B.aJ,n,n,n,n,n,n,n,!0,B.P,n,B.bs,n,n,n,n)],p),B.a0,B.m,B.L),n,!1,B.V)
+q=A.dq(A.bb(A.b([B.C3,B.S,new A.co(m,new A.akg(o),n),B.B,B.Zp,s,B.B,B.a_K,r,B.B,B.Z6,A.fB(!0,B.aP,!1,n,!0,B.F,n,A.hm(),q,n,n,n,n,n,2,B.Kg,B.G,!0,n,!0,n,!1,n,B.aT,n,n,n,n,n,n,n,3,n,n,!1,"\u2022",n,n,n,n,n,!1,n,n,!1,n,!0,n,B.aV,n,n,B.aN,B.aJ,n,n,n,n,n,n,n,!0,B.P,n,B.bs,n,n,n,n)],p),B.a0,B.m,B.L),n,!1,B.V)
 return A.ds(A.b([A.bO(!1,B.ak,n,n,n,n,n,n,new A.akh(a),n,n),A.cT(B.b5,new A.aki(o,a),n)],p),q,B.ZC)},
 l(){var s=this.r
 s===$&&A.a()
@@ -47943,7 +47943,7 @@ r=p.f
 r===$&&A.a()
 q=t.p
 r=A.dq(A.bb(A.b([B.a_D,B.S,new A.co(n,new A.aqU(p),o),B.B,B.ZS,s,B.B,B.a_g,A.fB(!0,B.aP,!1,o,!0,B.F,o,A.hm(),r,o,o,o,o,o,2,B.K6,B.G,!0,o,!0,o,!1,o,B.aT,o,o,o,B.bP,o,o,o,1,o,o,!1,"\u2022",o,o,o,o,o,!1,o,o,!1,o,!0,o,B.aV,o,o,B.aN,B.aJ,o,o,o,o,o,o,o,!0,B.P,o,B.bs,o,o,o,o)],q),B.a0,B.m,B.L),o,!1,B.V)
-return A.ds(A.b([A.bO(!1,B.ak,o,o,o,o,o,o,new A.aqV(a),o,o),A.cT(B.b5,new A.aqW(p,a),o)],q),r,B.Zc)},
+return A.ds(A.b([A.bO(!1,B.ak,o,o,o,o,o,o,new A.aqV(a),o,o),A.cT(B.b5,new A.aqW(p,a),o)],q),r,B.Zb)},
 l(){var s=this.f
 s===$&&A.a()
 s.R$=$.a9()
@@ -48130,7 +48130,7 @@ r=p.f
 r===$&&A.a()
 q=t.p
 r=A.dq(A.bb(A.b([B.a_R,B.S,new A.co(n,new A.aug(p),o),B.B,B.jb,s,B.B,B.a_c,A.cN(256,""+r+"%",255,0,new A.auh(p),r)],q),B.a0,B.m,B.L),o,!1,B.V)
-return A.ds(A.b([A.bO(!1,B.ak,o,o,o,o,o,o,new A.aui(a),o,o),A.cT(B.b5,new A.auj(p,a),o)],q),r,B.Zf)}}
+return A.ds(A.b([A.bO(!1,B.ak,o,o,o,o,o,o,new A.aui(a),o,o),A.cT(B.b5,new A.auj(p,a),o)],q),r,B.Ze)}}
 A.aug.prototype={
 $1(a){var s=this.a
 s.C(new A.aud(s,a))},
@@ -48207,7 +48207,7 @@ m===$&&A.a()
 m=B.c.a6(m.a,2)
 k=j.a.c.at
 k===$&&A.a()
-k=A.dq(A.bb(A.b([B.a_z,B.S,new A.co(h,new A.auU(j),i),B.B,B.a_1,s,B.B,B.a_l,r,B.B,B.Zj,q,B.B,p,B.S,n,B.S,l,A.ax("Bottom Right: ("+m+", "+B.c.a6(k.b,2)+")",i,i,i,i,i,i,i)],o),B.a0,B.m,B.L),i,!1,B.V)
+k=A.dq(A.bb(A.b([B.a_z,B.S,new A.co(h,new A.auU(j),i),B.B,B.a_1,s,B.B,B.a_l,r,B.B,B.Zi,q,B.B,p,B.S,n,B.S,l,A.ax("Bottom Right: ("+m+", "+B.c.a6(k.b,2)+")",i,i,i,i,i,i,i)],o),B.a0,B.m,B.L),i,!1,B.V)
 return A.ds(A.b([A.bO(!1,B.ak,i,i,i,i,i,i,new A.auV(a),i,i),A.cT(B.b5,new A.auW(j,a),i)],o),k,B.a_4)}}
 A.auU.prototype={
 $1(a){var s=this.a
@@ -101872,8 +101872,8 @@ B.e2=new A.ay(4e6)
 B.TK=new A.it(B.a_E,null,null,null,null,null,null,null,null,null,null,null,null,B.e2,null,null,null,B.F,null)
 B.a_e=new A.a4("No option chains available",null,null,null,null,null,null,null,null,null)
 B.Bt=new A.it(B.a_e,null,null,null,null,null,null,null,null,null,null,null,null,B.e2,null,null,null,B.F,null)
-B.Zy=new A.a4("Please select at least one correct option",null,null,null,null,null,null,null,null,null)
-B.TL=new A.it(B.Zy,null,null,null,null,null,null,null,null,null,null,null,null,B.e2,null,null,null,B.F,null)
+B.Zx=new A.a4("Please select at least one correct option",null,null,null,null,null,null,null,null,null)
+B.TL=new A.it(B.Zx,null,null,null,null,null,null,null,null,null,null,null,null,B.e2,null,null,null,B.F,null)
 B.a_B=new A.a4("recipe to clipboar",null,null,null,null,null,null,null,null,null)
 B.TM=new A.it(B.a_B,null,null,null,null,null,null,null,null,null,null,null,null,B.e2,null,null,null,B.F,null)
 B.ZO=new A.a4("Please fill in all options",null,null,null,null,null,null,null,null,null)
@@ -102260,41 +102260,41 @@ B.XU=new A.n(!0,B.a4,null,".AppleSystemUIFont",null,null,null,null,null,null,nul
 B.Yc=new A.n(!0,B.k,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Vd=new A.n(!0,B.k,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Z4=new A.dV(B.WR,B.VV,B.WS,B.Xs,B.Vz,B.VG,B.We,B.Xf,B.Ws,B.XY,B.V2,B.Vo,B.XU,B.Yc,B.Vd)
-B.Z5=new A.a4("Finance Charts",null,null,null,null,null,null,null,null,null)
-B.Z6=new A.a4("%K Line Color",null,null,null,null,null,null,null,null,null)
-B.Z7=new A.a4("Text Label",null,null,null,null,null,null,null,null,null)
-B.Z8=new A.a4("Finance Charts Demo",null,null,null,null,null,null,null,null,null)
-B.Z9=new A.a4("Columns: ",null,null,null,null,null,null,null,null,null)
-B.Za=new A.a4("Select column type",null,null,null,null,null,null,null,null,null)
-B.Zb=new A.a4("Bollinger Bands Settings",null,null,null,null,null,null,null,null,null)
+B.Z5=new A.a4("%K Line Color",null,null,null,null,null,null,null,null,null)
+B.Z6=new A.a4("Text Label",null,null,null,null,null,null,null,null,null)
+B.Z7=new A.a4("Finance Charts Demo",null,null,null,null,null,null,null,null,null)
+B.Z8=new A.a4("Columns: ",null,null,null,null,null,null,null,null,null)
+B.Z9=new A.a4("Select column type",null,null,null,null,null,null,null,null,null)
+B.Za=new A.a4("Bollinger Bands Settings",null,null,null,null,null,null,null,null,null)
 B.b5=new A.a4("Apply",null,null,null,null,null,null,null,null,null)
-B.Zc=new A.a4("Horizontal Band Settings",null,null,null,null,null,null,null,null,null)
-B.Zd=new A.a4("Create",null,null,null,null,null,null,null,null,null)
-B.Ze=new A.a4("Positive Histogram Color",null,null,null,null,null,null,null,null,null)
-B.Zf=new A.a4("Parallel Channel Settings",null,null,null,null,null,null,null,null,null)
+B.Zb=new A.a4("Horizontal Band Settings",null,null,null,null,null,null,null,null,null)
+B.Zc=new A.a4("Create",null,null,null,null,null,null,null,null,null)
+B.Zd=new A.a4("Positive Histogram Color",null,null,null,null,null,null,null,null,null)
+B.Ze=new A.a4("Parallel Channel Settings",null,null,null,null,null,null,null,null,null)
 B.ex=new A.a4("Line Color",null,null,null,null,null,null,null,null,null)
-B.Zg=new A.a4("Enable Multi-row Selection: ",null,null,null,null,null,null,null,null,null)
-B.Zh=new A.a4("Edit Value",null,null,null,null,null,null,null,null,null)
-B.Zi=new A.a4("Fill Transparency",null,null,null,null,null,null,null,null,null)
-B.Zj=new A.a4("Handle Radius",null,null,null,null,null,null,null,null,null)
-B.Zk=new A.a4("Time Interval",null,null,null,null,null,null,null,null,null)
+B.Zf=new A.a4("Enable Multi-row Selection: ",null,null,null,null,null,null,null,null,null)
+B.Zg=new A.a4("Edit Value",null,null,null,null,null,null,null,null,null)
+B.Zh=new A.a4("Fill Transparency",null,null,null,null,null,null,null,null,null)
+B.Zi=new A.a4("Handle Radius",null,null,null,null,null,null,null,null,null)
+B.Zj=new A.a4("Time Interval",null,null,null,null,null,null,null,null,null)
 B.C0=new A.a4("Save",null,null,null,null,null,null,null,null,null)
-B.Zl=new A.a4("Go to Editor with Input Text",null,null,null,null,null,null,null,null,null)
-B.Zm=new A.a4("Standard Deviation Multiplier",null,null,null,null,null,null,null,null,null)
-B.Zn=new A.a4("Show Buy/Sell Buttons: ",null,null,null,null,null,null,null,null,null)
-B.Zo=new A.a4("RSI Period",null,null,null,null,null,null,null,null,null)
-B.Zp=new A.a4("%D Period",null,null,null,null,null,null,null,null,null)
-B.Zq=new A.a4("Arrow Direction",null,null,null,null,null,null,null,null,null)
-B.Zr=new A.a4("OK",null,null,null,null,null,null,null,null,null)
-B.Zs=new A.a4("Select Task Type",null,null,null,null,null,null,null,null,null)
+B.Zk=new A.a4("Go to Editor with Input Text",null,null,null,null,null,null,null,null,null)
+B.Zl=new A.a4("Standard Deviation Multiplier",null,null,null,null,null,null,null,null,null)
+B.Zm=new A.a4("Show Buy/Sell Buttons: ",null,null,null,null,null,null,null,null,null)
+B.Zn=new A.a4("RSI Period",null,null,null,null,null,null,null,null,null)
+B.Zo=new A.a4("%D Period",null,null,null,null,null,null,null,null,null)
+B.Zp=new A.a4("Arrow Direction",null,null,null,null,null,null,null,null,null)
+B.Zq=new A.a4("OK",null,null,null,null,null,null,null,null,null)
+B.Zr=new A.a4("Select Task Type",null,null,null,null,null,null,null,null,null)
 B.C1=new A.a4("Add",null,null,null,null,null,null,null,null,null)
-B.Zt=new A.a4("Clear",null,null,null,null,null,null,null,null,null)
-B.Zu=new A.a4("Submit",null,null,null,null,null,null,null,null,null)
+B.Zs=new A.a4("Clear",null,null,null,null,null,null,null,null,null)
+B.Zt=new A.a4("Submit",null,null,null,null,null,null,null,null,null)
 B.C2=new A.a4("Add Data",null,null,null,null,null,null,null,null,null)
-B.Zv=new A.a4("Select",null,null,null,null,null,null,null,null,null)
-B.Zw=new A.a4("Oversold Threshold",null,null,null,null,null,null,null,null,null)
+B.Zu=new A.a4("Select",null,null,null,null,null,null,null,null,null)
+B.Zv=new A.a4("Oversold Threshold",null,null,null,null,null,null,null,null,null)
 B.ak=new A.a4("Cancel",null,null,null,null,null,null,null,null,null)
-B.Zx=new A.a4("+DMI Line",null,null,null,null,null,null,null,null,null)
+B.Zw=new A.a4("+DMI Line",null,null,null,null,null,null,null,null,null)
+B.Zy=new A.a4("Trade:able Charts",null,null,null,null,null,null,null,null,null)
 B.Zz=new A.a4("Middle Band Color",null,null,null,null,null,null,null,null,null)
 B.ZA=new A.a4("Generate Data",null,null,null,null,null,null,null,null,null)
 B.ZB=new A.a4("Circular Area Settings",null,null,null,null,null,null,null,null,null)
