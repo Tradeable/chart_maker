@@ -41573,12 +41573,14 @@ break
 case 8:o.hs()
 break
 case 9:t.Mr.a(n)
+q=o.f.h(0,n.d)
+if(q==null)q=o.e
 s=n.f
-if(J.rV(s==null?A.b([],t.dh):s)){n=o.e.gL()
+if(J.rV(s==null?A.b([],t.dh):s)){n=q.gL()
 if(n!=null){s.toString
-n.an7(s)}}else for(n=J.bu(n.e),s=o.e;n.B();){r=n.gS()
-q=s.gL()
-if(q!=null)q.an8(r)}o.hs()
+n.an7(s)}}else for(n=J.bu(n.e);n.B();){s=n.gS()
+r=q.gL()
+if(r!=null)r.an8(s)}o.hs()
 break
 case 10:o.at.push(t.ch.a(n))
 o.hs()
